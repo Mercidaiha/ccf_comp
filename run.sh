@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python embedllm.py > log/run.log 2>&1
